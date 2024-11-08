@@ -1,0 +1,10 @@
+loguru==0.7.2
+torch==2.4.1
+transformers==4.45.2
+datasets==3.0.1
+stanza==1.9.2
+sacrebleu==2.4.3
+rich==13.9.2
+wandb==0.18.3
+sentencepiece==0.2.0
+accelerate==1.0.0
